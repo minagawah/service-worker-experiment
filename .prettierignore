@@ -2,4 +2,6 @@
 .prettierignore
 /dist
 LICENSE*
+screenshot.png
+unregister.png
 yarn*
